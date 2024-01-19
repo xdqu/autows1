@@ -12,7 +12,7 @@
             "class": "Tenant",
             "student11.f5auto.com": {
                 "class": "Application",
-                "student11.f5auto.com_vs_443": {
+                "student11.f5auto.com_vs1_443": {
                     "class": "Service_HTTP",
                     "virtualAddresses": [
                         "10.0.1.101"
