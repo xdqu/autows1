@@ -37,7 +37,7 @@
             },
             "student11.f5auto-pp.com": {
                 "class": "Application",
-                "student11.f5auto-pp.com_vs_443": {
+                "student11.f5auto-pp.com_vs2_443": {
                     "class": "Service_HTTP",
                     "virtualAddresses": [
                         "10.0.1.102"
